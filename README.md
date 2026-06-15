@@ -7,6 +7,10 @@ This project presents a simplified implementation of reachability analysis in at
 
 The notebook explores how reverse reachability can be used to identify winning states in a two-player game and examines how attacker and defender actions influence the structure of the reachable state space.
 
+## Visualisation
+
+![Reachability Analysis](images/reachability-analysis.png)
+
 ---
 
 ## Project Overview
